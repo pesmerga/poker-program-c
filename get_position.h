@@ -1,0 +1,1 @@
+// Library header file: get_position.h#ifndef getposition#include "structures.h"// Function get_position// Purpose: determine the given position of a player depending on their seat compared to that of the dealer// Input: a table with a given dealer// Output: a table with a position for every playertable get_position(table &mytable);#define getposition#endif

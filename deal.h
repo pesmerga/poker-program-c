@@ -1,0 +1,1 @@
+// Library header file: deal.h#ifndef deals#include "structures.h"// Function deal// Purpose: deals the cards to all the 10 hands (players)// Input: a deck and a table// Output: a deck that has been dealt out to the 10 players of a tabletable deal(deck &mydeck, table &mytable);#define deals#endif

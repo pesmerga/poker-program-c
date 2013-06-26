@@ -1,0 +1,1 @@
+// Library header file: last_standing.h#ifndef laststanding#include "structures.h"// Function last_standing// Purpose: determines whether there is one person left and you win// Input: a table with a # of players// Output: an integer from 1 to 10; representative of the amount of players in playint last_standing(table &mytable);#define laststanding#endif

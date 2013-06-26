@@ -1,0 +1,1 @@
+// Library header file: update_player.h#ifndef updateplayer#include "structures.h"#include "ranking.h"// Function update_player// Purpose: sets betsinround and betsthisround to 0// Input: a table after a round of betting or during the 1st round// Output: a table of players with corrected betstable update_player(table &mytable);#define updateplayer#endif

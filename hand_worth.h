@@ -1,0 +1,1 @@
+// Library header file: hand_worth.h#ifndef handworth#include "structures.h"// Function hand_worth// Purpose: determines out of 5-7 cards what the best 5 are and what they make// Input: a hand with a table// Output: a hand with a table and a new found worth for their main handhand hand_worth(hand &myhand, table &mytable);#define handworth#endif
